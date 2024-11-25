@@ -1,1 +1,1 @@
-# new-repo
+Git Exercise 2
